@@ -1,0 +1,9 @@
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0; /* left 0 + right 0 == center */
+    margin: auto; /* auto mid positioning as window expands or shrinks */
+    width: 100%;
+    text-align: center;
+}
